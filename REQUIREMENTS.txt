@@ -1,0 +1,11 @@
+Invoke:
+
+pip3 install fire
+pip3 install toml
+pip3 install datetime
+pip3 install subprocess
+pip3 install os
+
+Config file requirements:
+
+TOML
